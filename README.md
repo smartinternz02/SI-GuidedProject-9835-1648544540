@@ -2,3 +2,4 @@
 Guided Learning Module-Artificial Intelligence
 
 Assignment-1_python_exercise
+Assignment-2_numpy_exercise
